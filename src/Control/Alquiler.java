@@ -1,5 +1,4 @@
 package Control;
-jajajaja
 /*import java.util.ArrayList;
 
 public class Alquiler extends Clientes{
